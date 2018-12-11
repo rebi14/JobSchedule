@@ -1,0 +1,10 @@
+c:\users\rabia\documents\visual studio 2015\Projects\Job\Job\bin\Debug\Job.exe.config
+c:\users\rabia\documents\visual studio 2015\Projects\Job\Job\bin\Debug\Job.exe
+c:\users\rabia\documents\visual studio 2015\Projects\Job\Job\bin\Debug\Job.pdb
+c:\users\rabia\documents\visual studio 2015\Projects\Job\Job\obj\Debug\Job.csprojResolveAssemblyReference.cache
+c:\users\rabia\documents\visual studio 2015\Projects\Job\Job\obj\Debug\Job.Form1.resources
+c:\users\rabia\documents\visual studio 2015\Projects\Job\Job\obj\Debug\Job.Properties.Resources.resources
+c:\users\rabia\documents\visual studio 2015\Projects\Job\Job\obj\Debug\Job.csproj.GenerateResource.Cache
+c:\users\rabia\documents\visual studio 2015\Projects\Job\Job\obj\Debug\Job.exe
+c:\users\rabia\documents\visual studio 2015\Projects\Job\Job\obj\Debug\Job.pdb
+c:\users\rabia\documents\visual studio 2015\Projects\Job\Job\obj\Debug\Job.EditForm.resources
